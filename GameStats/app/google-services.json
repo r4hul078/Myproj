@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "819982785588",
+    "firebase_url": "https://hello-96140-default-rtdb.firebaseio.com",
+    "project_id": "hello-96140",
+    "storage_bucket": "hello-96140.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819982785588:android:5554ca636c84442a1afe61",
+        "android_client_info": {
+          "package_name": "com.example.c37b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnnveAkbeg5oHSFS5A2FBR1TEuUaihIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819982785588:android:8030d140972295241afe61",
+        "android_client_info": {
+          "package_name": "com.example.gamestats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnnveAkbeg5oHSFS5A2FBR1TEuUaihIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819982785588:android:e05d2bced9a90c351afe61",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnnveAkbeg5oHSFS5A2FBR1TEuUaihIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
